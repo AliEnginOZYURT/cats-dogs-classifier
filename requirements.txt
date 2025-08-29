@@ -1,0 +1,18 @@
+# Core
+torch>=2.2
+torchvision>=0.17
+numpy>=1.26
+pillow>=10.0
+matplotlib>=3.8
+tqdm>=4.66
+
+# Notebook / IDE
+jupyter>=1.0
+ipykernel>=6.29
+
+# Optional (metrics / split helpers)
+scikit-learn>=1.4
+
+# Optional (image processing / augmentations)
+opencv-python>=4.9
+# albumentations>=1.4
